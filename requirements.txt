@@ -1,0 +1,7 @@
+ipykernel
+jupyterlab
+notebook
+pandas
+numpy
+matplotlib
+missingno
